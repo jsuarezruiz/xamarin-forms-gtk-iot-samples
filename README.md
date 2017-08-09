@@ -9,6 +9,27 @@ Using **Oxyplot** charts the App shows the summary of temperatures and humiditie
 
 Xamarin.Forms, .NET Core, Linux on server and client, sounds interesting?.
 
+## Xamarin IoT
+
+[Xamarin.IoT](https://developer.xamarin.com/guides/cross-platform/iot/) enables developers to write and share C# code across devices, now including internet of things devices such as Raspberry Pi and Intel Edison. It works with any IoT device running Linux (most popular distributions) and integrates seamlessly with the Azure IoT Suite to connect, analyze, and secure your IoT solutions.
+
+You can use MQTT and AMPQ with your Xamarin.IoT projects by just adding a reference to the corresponding packages.
+
+![](Images/xamariniot.png)
+
+## Xamarin.Forms
+
+[Xamarin.Forms](https://www.xamarin.com/forms) allows you to build native UIs for **iOS, Android, Windows, MacOS and Linux** from a single, shared codebase. You can dive into mobile development with Xamarin.Forms by following our free self-guided learning from Xamarin University. This project exercises the following patterns and features:
+
+- Xamarin.Forms
+- XAML UI
+- Converters
+- Custom Renderers
+- Data Binding
+- IoC
+- MVVM
+- Styles
+
 ## Prerequisites
 
 
