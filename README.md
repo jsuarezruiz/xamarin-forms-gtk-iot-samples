@@ -2,7 +2,7 @@
 
 The Temperature Monitor App is a **Xamarin.Forms** GTK Backend App running on **Linux** that reads temperature and humidity sensor data.
 
-![Temperarute Monitor App](images/temperaturemonitor.png)
+![Temperarute Monitor App](Images/temperaturemonitor.png)
 
 The App uploads data to **Azure Table Storage**. In Azure there are also a **Net Core Web API** that returns the data to the App, to show results in the most visual form.
 Using **Oxyplot** charts the App shows the summary of temperatures and humidities per hour each day.
@@ -15,7 +15,7 @@ Xamarin.Forms, .NET Core, Linux on server and client, sounds interesting?.
 
 You can use MQTT and AMPQ with your Xamarin.IoT projects by just adding a reference to the corresponding packages.
 
-![Xamarin IoT](images/xamariniot.png)
+![Xamarin IoT](Images/xamariniot.png)
 
 ## Xamarin.Forms
 
@@ -38,7 +38,7 @@ You can use MQTT and AMPQ with your Xamarin.IoT projects by just adding a refere
 - **Visual Studio** 2017 (Windows or Mac) Community Edition and above.
 - **Azure** subscription. Not a Visual Studio subscriber? Get a $25 monthly Azure credit by joining [Visual Studio Dev Essentials](https://www.visualstudio.com/products/visual-studio-dev-essentials-vs).
 
-![Hardware](images/requisites.png)
+![Hardware](Images/requisites.png)
 
 
 ## How to try?
