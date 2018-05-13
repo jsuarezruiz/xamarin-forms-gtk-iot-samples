@@ -21,10 +21,6 @@ namespace TemperatureMonitor.Controls
                         message +=
                             "\nRemember to add `OxyPlot.Xamarin.Forms.Platform.UWP.PlotViewRenderer.Init();` after `Xamarin.Forms.Forms.Init(e);` in the Universal Windows app project.";
                         break;
-                    case Device.WinPhone:
-                        message +=
-                            "\nRemember to add `OxyPlot.Xamarin.Forms.Platform.WP8.PlotViewRenderer.Init();` after `Xamarin.Forms.Forms.Init();` in the Windows Phone app project.";
-                        break;
                     case Device.Android:
                         message +=
                             "\nRemember to add `OxyPlot.Xamarin.Forms.Platform.Android.PlotViewRenderer.Init();` after `Xamarin.Forms.Forms.Init();` in the Android app project.";

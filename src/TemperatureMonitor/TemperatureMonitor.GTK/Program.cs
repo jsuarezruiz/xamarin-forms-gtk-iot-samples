@@ -14,7 +14,7 @@ namespace TemperatureMonitor.GTK
             var app = new App();
             var window = new FormsWindow();
             window.LoadApplication(app);
-            window.SetApplicationTitle("TemperatureMonitor");
+            window.SetApplicationTitle("Temperature Monitor");
             window.Show();
             Gtk.Application.Run();
         }
