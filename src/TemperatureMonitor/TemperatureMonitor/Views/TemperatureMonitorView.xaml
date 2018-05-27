@@ -74,9 +74,10 @@
                     <Label         
                         Grid.Column="1"
                         Text="{Binding Date, StringFormat='{0:d}'}"   
+                        HorizontalOptions="Start"
                         VerticalOptions="Center"
                         TextColor="Black" 
-                        FontSize="Large" />
+                        FontSize="Large"/>
                     <Button 
                         Grid.Column="2"
                         TextColor="Black" 
